@@ -1,6 +1,5 @@
 streamlit
-sklearn
-re
-pickle
-string
+scikit-learn
 nltk
+fastapi
+uvicorn[standard]

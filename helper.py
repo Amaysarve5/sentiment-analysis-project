@@ -4,7 +4,6 @@ import string
 import nltk
 from nltk.corpus import stopwords as sw
 from nltk.stem import WordNetLemmatizer
-
 cv=pickle.load(open('cv.pkl','rb'))
 
 def remove_html_tags(text):
